@@ -18,6 +18,9 @@ This Java program simulates a car service station with the following features:
 1. Run the `CarServiceStation.java` file to execute the program.
 2. Customize the `serviceCodes` list and `carType` variable to specify the desired services and car type.
 3. The program will generate a detailed bill, including the total amount and complimentary cleaning status.
+<img width="764" alt="image" src="https://github.com/PappuLal1234/Oops/assets/73828213/0b8d4fee-4921-4110-a388-9607d5b107ba">
+
+   
 
 #  Find Elements with Sum Zero 
 
@@ -33,6 +36,7 @@ This Java program finds elements in an array of positive and negative numbers wh
 1. Run the `FindSumZeroElements.java` file to execute the program.
 2. Customize the `inputArray` variable to include your desired array of numbers.
 3. The program will find and display a combination of elements whose sum is zero or "No Elements found" if none exists.
+<img width="833" alt="image" src="https://github.com/PappuLal1234/Oops/assets/73828213/164e0cf7-8478-4c9f-b195-c8362e38602e">
 
 ### Example 1 & 2
 ```java
